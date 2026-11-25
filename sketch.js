@@ -11,13 +11,11 @@ const RUNNING = "running";
 let gameState = MENU;
 
 async function loadAssets() {
-
 }
 
 async function setup() {
   createCanvas(windowWidth, windowHeight);
   await loadAssets();
-
 }
 
 class Player {
@@ -30,7 +28,6 @@ class Player {
   }
   move() {
   }
-
   draw () {
   }
 }
