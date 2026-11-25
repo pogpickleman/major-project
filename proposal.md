@@ -9,16 +9,18 @@ acquire words in context through dialogue, quests, exploration, combat
 - playable open world (interactive)
 - player movement and exploration 
 - all 1.5k japanese vocab used
-- quests/objectives/story/minigames for the player
+- quests/objectives/story/minigame/combat for the player
 - progress tracking for the japanese (pokedex as a jp dictionary?)
 - npc interactions w/ dialogue
 - combat system
 - save player progress
 
 ## Nice to have list
+- interactable text (for copying, scanning)
 - furigana toggle
 - japanese audio
 - srs
 - grammar learning
 - writing practice
 - multiplayer
+- procedural aspects (words, terrain, etc)
